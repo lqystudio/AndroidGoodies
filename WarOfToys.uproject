@@ -1,0 +1,38 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.23",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "AndroidGoodies",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/2775bb4f59e5498bb040d1e48767ea03"
+		},
+		{
+			"Name": "CompilerBooster",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/15afae52463a44cb85a3176c003c8fb1"
+		},
+		{
+			"Name": "Debug",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/739ccab666f245e08397bcbf668063ed"
+		},
+		{
+			"Name": "GameAnalytics",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/d070c3fab7b74c08bab3a89c9cbf4490"
+		},
+		{
+			"Name": "Prefabricator",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/39ccbbf668e84847890992df9922e355"
+		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"IOS",
+		"LinuxNoEditor"
+	]
+}
